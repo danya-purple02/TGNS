@@ -1,0 +1,7 @@
+path: D:/PSU/4_term/TGNS/res/lab7/zadanie/my_own_dataset
+train: images/train
+val: images/val
+
+names:
+  0: human
+  1: Phone
